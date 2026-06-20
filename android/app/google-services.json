@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779954112669",
+    "project_id": "recovery-management-app",
+    "storage_bucket": "recovery-management-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779954112669:android:dca7fee56b7d0af6e66c74",
+        "android_client_info": {
+          "package_name": "com.recoverymanagement.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_syoG86sXLM5RZ1KL3CusR19mIor2mWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

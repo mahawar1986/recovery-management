@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key><string>$(DEVELOPMENT_LANGUAGE)</string>
+    <key>CFBundleDisplayName</key><string>Recovery Management</string>
+    <key>CFBundleExecutable</key><string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key><string>com.recoverymanagement.app</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key><string>recovery_management</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleSignature</key><string>????</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>NSCameraUsageDescription</key><string>Recovery Management needs camera access to capture visit photos for loan recovery documentation.</string>
+    <key>NSLocationWhenInUseUsageDescription</key><string>Recovery Management needs your location to log field visit GPS coordinates.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key><string>Recovery Management uses location to record visit coordinates.</string>
+    <key>NSPhotoLibraryUsageDescription</key><string>Recovery Management needs photo library access to attach visit photos.</string>
+    <key>GADApplicationIdentifier</key><string>ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY</string>
+    <key>UILaunchStoryboardName</key><string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key><string></string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array><string>UIInterfaceOrientationPortrait</string></array>
+</dict>
+</plist>
